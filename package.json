@@ -1,0 +1,22 @@
+{
+  "name": "test-ripgrep-appveyor-build",
+  "version": "1.0.0",
+  "description": "Git repo to exercise: https://github.com/onivim/oni/issues/889",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryphe/test-ripgrep-appveyor-build.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryphe/test-ripgrep-appveyor-build/issues"
+  },
+  "homepage": "https://github.com/bryphe/test-ripgrep-appveyor-build#readme",
+  "dependencies": {
+    "vscode-ripgrep": "^0.6.0-patch.0"
+  }
+}
